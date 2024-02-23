@@ -1,2 +1,5 @@
 # meu-primeiro-repo
-Primeiro Repositório no GitHu
+Primeiro Repositório no GitHub
+
+
+**.**Alterando remotamente o repositório
